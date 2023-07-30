@@ -1,2 +1,2 @@
 # My-Resume
-Simple resume create using html
+Simple resume created using html
